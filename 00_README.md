@@ -1,4 +1,7 @@
 # Patient Survival Risk Prediction Using Machine Learning
+
+## Project Type
+Machine Learning | Classification | Healthcare Analytics
 A machine learning project that predicts patient survival using clinical data, achieving ~92% accuracy and identifying key risk factors such as age and comorbidities.
 
 ## Overview
@@ -74,11 +77,9 @@ The following models were trained and evaluated:
 This project includes:
 
 * Confusion matrix
-* Feature importance plots
-
-![Confusion Matrix](images/confusion_matrix.png)
 <img src="images/confusion_matrix.png" width="600"/>
-![Feature Importance](images/feature_importance.png)
+
+* Feature importance plots
 <img src="images/feature_importance.png" width="600"/>
 
 ---
@@ -92,11 +93,29 @@ This project includes:
 
 ## How to Run
 
+1. Clone the repository:
+
 ```bash
 git clone https://github.com/ChrisACr/Covid_survival_prediction.git
 cd Covid_survival_prediction
+```
+
+2. Install required packages:
+
+```bash
 pip install -r requirements.txt
-python main.py
+```
+
+3. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open and run the main notebook:
+
+```
+notebooks/covid_survival_analysis.ipynb
 ```
 
 ---
@@ -124,7 +143,6 @@ Covid_survival_prediction/
 │
 ├── data/
 ├── notebooks/
-├── src/
 ├── images/
 ├── README.md
 └── requirements.txt
