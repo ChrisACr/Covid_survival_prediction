@@ -1,5 +1,5 @@
 # Patient Survival Risk Prediction Using Machine Learning
-A machine learning project that predicts patient survival using clinical data, achieving ~81% accuracy and identifying key risk factors such as age and comorbidities.
+A machine learning project that predicts patient survival using clinical data, achieving ~92% accuracy and identifying key risk factors such as age and comorbidities.
 
 ## Overview
 
