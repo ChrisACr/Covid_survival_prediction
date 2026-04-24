@@ -75,9 +75,9 @@ This project includes:
 
 * Confusion matrix
 * Feature importance plots
-* ROC curve
 
-(Add screenshots in `/images` and link them here)
+![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
