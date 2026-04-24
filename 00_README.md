@@ -16,7 +16,7 @@ This project develops a machine learning model to predict patient survival outco
 
 ## Dataset
 
-* Source: ([https://www.kaggle.com/datasets/meirnizri/covid19-dataset])
+* Source: https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 * Target Variable: Survival outcome (e.g., survived vs not survived)
 * Features include:
 
@@ -58,8 +58,9 @@ The following models were trained and evaluated:
 
 ## Results
 
-* Best performing model: (Logistic Regression)
+* Best performing model: Logistic Regression
 * Accuracy: 92%
+* ROC-AUC: 0.8786
 * Key predictive features:
 
   * Pneumonia
