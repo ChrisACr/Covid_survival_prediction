@@ -81,6 +81,13 @@ This project includes:
 
 ---
 
+## Additional Materials
+
+- Full Report: [View Report](reports/project_write_up.pdf)
+- Presentation Slides: [View Slides](reports/CovidSurvival_presentation.pdf)
+
+---
+
 ## How to Run
 
 ```bash
