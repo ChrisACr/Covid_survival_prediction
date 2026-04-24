@@ -77,7 +77,9 @@ This project includes:
 * Feature importance plots
 
 ![Confusion Matrix](images/confusion_matrix.png)
+<img src="images/confusion_matrix.png" width="500"/>
 ![Feature Importance](images/feature_importance.png)
+<img src="images/feature_importance.png" width="500"/>
 
 ---
 
