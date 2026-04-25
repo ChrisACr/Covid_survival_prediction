@@ -86,7 +86,7 @@ This project includes:
 
 ## Additional Materials
 
-- Full Report: [View Report](reports/Project_Write_Up.pdf)
+- Full Report: [View Report](reports/Project_Write_up.pdf)
 - Presentation Slides: [View Slides](reports/CovidSurvival_Presentation.pdf)
 
 ---
