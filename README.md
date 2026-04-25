@@ -121,7 +121,7 @@ jupyter notebook
 5. Run:
 
 ```
-notebooks/your_notebook.ipynb
+notebooks/covid_survival_analysis.ipynb
 ```
 
 
