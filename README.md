@@ -93,30 +93,37 @@ This project includes:
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repo:
 
-```bash
-git clone https://github.com/ChrisACr/Covid_survival_prediction.git
-cd Covid_survival_prediction
+```
+git clone https://github.com/yourname/covid_survival_prediction.git
+cd covid_survival_prediction
 ```
 
-2. Install required packages:
+2. Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
-3. Launch Jupyter Notebook:
+3. Download dataset:
 
-```bash
+```
+python scripts/download_data.py
+```
+
+4. Open notebook:
+
+```
 jupyter notebook
 ```
 
-4. Open and run the main notebook:
+5. Run:
 
 ```
-notebooks/covid_survival_analysis.ipynb
+notebooks/your_notebook.ipynb
 ```
+
 
 ---
 
